@@ -20,7 +20,7 @@ A page that searches the user on Github and shows their repositories with an acc
 
 ### Links
 
-- URL:[Click Here](https://profound-zuccutto-b9bb42.netlify.app))]
+- URL:[Click Here](https://profound-zuccutto-b9bb42.netlify.app)]
 
 ## My process
 

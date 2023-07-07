@@ -33,4 +33,4 @@ A page that searches the user on Github and shows their repositories with an acc
 
 ## Author
 
-- Github - [Wanderson Viana Viana](https://github.com/Wandsv0)
+- Github - [Wanderson Viana](https://github.com/Wandsv0)

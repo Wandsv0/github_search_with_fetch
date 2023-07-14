@@ -193,3 +193,31 @@ main {
     padding: 0;
   }
 }
+
+.followers {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+.followers p {
+  padding: 15px;
+}
+
+.events span {
+  font-weight: 700;
+}
+
+.info-repo {
+  margin: 10px;
+}
+
+.info-repo span {
+  font-size: 14px;
+  font-weight: 400;
+  background-color: #c3daf0;
+  margin: 5px;
+  padding: 3px;
+  border-radius: 3px;
+}
